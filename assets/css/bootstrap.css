@@ -10035,3 +10035,12 @@ a.text-dark:hover, a.text-dark:focus {
     border-color: #dee2e6;
   }
 }
+
+.chip-tecnologia {
+  color: #ffffff;
+  background-color: #0bceaf;
+  padding: 5px 10px;
+  margin: 5px; 
+  min-width: 6rem;
+  border-radius: 50px;
+}
