@@ -1396,6 +1396,12 @@ canvas.particles-js-canvas-el {
   border-radius: 1.25rem;
 }
 
+.portfolio-item-content img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+
 .portfolio .portfolio-item-content::before {
   content: "";
   position: absolute;
